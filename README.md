@@ -1,6 +1,6 @@
-#Do not forget to give star to this repo...
+# Do not forget to give star to this repo...
 
-# Striver-A2Z-Sheet-with-GFG-links
+# Striver-A2Z-Sheet-with-GFG-links [site-link](https://shivanshumishra23.github.io/Striver-A2Z-Sheet-with-GFG-links/)
 
 #This is Striver's A2Z DSA sheet/course GFG Question links
 
